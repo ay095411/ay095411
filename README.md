@@ -12,12 +12,9 @@
 
 <p align="center">
   <a href="https://github.com/ay095411">
-    <img src="https://img.shields.io/badge/GitHub-@yourname-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-@ay095411-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-Website-6B7280?style=for-the-badge&logo=firefoxbrowser" />
-  </a>
-  <a href="email:wweiliay@gmail.com">
+  <a href="wweiliay@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
   </a>
 </p>
